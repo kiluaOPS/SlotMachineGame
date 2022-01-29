@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31911.196
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SlotMachineGame", "SlotMachineGame\SlotMachineGame.csproj", "{7B37C7BC-BDB7-4936-93E4-7CE055B3BC86}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SlotMachineGame.Tests", "SlotMachineGame.Tests\SlotMachineGame.Tests.csproj", "{9B5E0001-B47F-4F81-B63A-AD6C075D9A72}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7B37C7BC-BDB7-4936-93E4-7CE055B3BC86}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B37C7BC-BDB7-4936-93E4-7CE055B3BC86}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B37C7BC-BDB7-4936-93E4-7CE055B3BC86}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B37C7BC-BDB7-4936-93E4-7CE055B3BC86}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9B5E0001-B47F-4F81-B63A-AD6C075D9A72}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B5E0001-B47F-4F81-B63A-AD6C075D9A72}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B5E0001-B47F-4F81-B63A-AD6C075D9A72}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B5E0001-B47F-4F81-B63A-AD6C075D9A72}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {164F7C80-A139-4E0E-A454-75AEB71A0D18}
+	EndGlobalSection
+EndGlobal
